@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  dba_mssql:
+    image: mcr.microsoft.com/mssql/server:2017-latest-ubuntu
+    container_name: dba_mssqlserver
+    hostname: local.dba_mssqlserver 
+    ports:
+        - 1433:1433
+    environment: 
+        - SA_PASSWORD=DBA@2020
+        - ACCEPT_EULA=Y
+        - MSSQL_PID=Express
+        - MSSQL_MEMORY_LIMIT_MB=1024
+        - BITNAMI_DEBUG=true        
+    networks:
+        - "dba_server" 
+networks:
+  dba_server:
+    driver: "bridge"
