@@ -59,6 +59,7 @@ https://docs.microsoft.com/pt-br/sql/t-sql/language-reference?view=sql-server-ve
 https://docs.microsoft.com/pt-br/sql/sql-server/educational-sql-resources?view=sql-server-ver15
 https://docs.microsoft.com/pt-br/learn/paths/azure-sql-fundamentals/  
 https://microsoft.github.io/sqlworkshops/?WT.mc_id=azuresql4beg_azuresql-ch9-code  
+https://www.tutorialspoint.com/t_sql/index.htm  
 
 ### Videos
 https://www.youtube.com/playlist?list=PLlrxD0HtieHi5c9-i_Dnxw9vxBY-TqaeN&WT.mc_id=azuresql4beg_azuresql-ch9-niner
