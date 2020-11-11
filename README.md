@@ -44,14 +44,15 @@ Exam Ref 70-761 Querying Data with Transact-SQL
 ### SSMS
 https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15  
 
+### Azure Data Studio
+https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-windows  
 ### DBeaver
 https://dbeaver.io/download/  
 
 ### Navicat
 https://www.navicat.com/en/products/navicat-for-sqlserver  
 
-### Azure Data Studio
-https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-windows  
+
 
 
 # Manual / Documentation ( Please Read the Docs )
