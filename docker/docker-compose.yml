@@ -6,7 +6,7 @@ services:
     hostname: local.dba_mssqlserver
     volumes:
       - ./db/mssql:/var/opt/mssql
-      - ./db/sqlserver:/var/opt/sqlserver
+      - ./db/sqlserver:/var/opt/sqlserver j
     ports:
       - 1433:1433
     environment:
